@@ -7,6 +7,8 @@ implementing important data structures and algorithms,
 such as graphs, dynamic programming, and machine learning
 that are fundamental to this domain.
 
+<img width="50%" src="img/course-image.jpg">
+
 # Class Logistics
 
 + Instructor: [Prof. Tsung-Wei Huang][Tsung-Wei Huang]
