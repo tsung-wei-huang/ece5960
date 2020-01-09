@@ -1,6 +1,6 @@
 # Advanced Programming for Computer Design Problems
 
-The course teaches you how to write *good* programs
+The course (ECE 5960-023/6960-025) teaches you how to write *good* programs
 with a specific focus on solving computer design problems.
 You will gain hands-on experience in writing C++/Python code for 
 implementing important data structures and algorithms,
@@ -24,6 +24,7 @@ that are fundamental to this domain.
   + Programming Assignment 3: 20 points
 + Office hour: 1-3 PM every Wed (feel free to email for additional appointments)
 + Textbook: No
++ [Utah ECE course catalog](https://student.apps.utah.edu/uofu/stu/ClassSchedules/main/1204/class_list.html?subject=ECE)
 
 # Syllabus
 
@@ -39,9 +40,9 @@ The class will teach you the following topipcs:
 
 # Lecture Notes
 
-| Lecture               | Topics | Slides | Assignment | Due |
-| :-:                   | :-:    | :-:    | :-:        | :-: |
-| Lecture 1 (2020/1/9)  | TBD    | -      | -          | -   |
+| Lecture  | Topics | Slides | Programming Practice | Assignment | Due |
+| :-:      | :-:    | :-:    | :-:                  | :-:        | :-: |
+| 2020/1/9 | Introduction | [lecture1](slides/lecture1.pdf) | [p1, p2, makefile](icp/20190109/) | [hw0](hw/hw0.pdf) | -   |
 
 
 ---
