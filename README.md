@@ -16,12 +16,13 @@ that are fundamental to this domain.
   + Office: MEB 2124
 + Time: 3:30 PM - 6:30 PM every Thursday
 + Room: MEB 2555
-+ Webpage: 
++ Webpage: [https://github.com/tsung-wei-huang/ece5960](https://github.com/tsung-wei-huang/ece5960)
 + Scoring
   + In-class practice: 40 points
   + Programming Assignment 1: 20 points
   + Programming Assignment 2: 20 points
   + Programming Assignment 3: 20 points
+  + No Exams
 + Office hour: 1-3 PM every Wed (feel free to email for additional appointments)
 + Textbook: No
 + [Utah ECE course catalog](https://student.apps.utah.edu/uofu/stu/ClassSchedules/main/1204/class_list.html?subject=ECE)
