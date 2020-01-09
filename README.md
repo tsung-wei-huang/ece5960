@@ -43,7 +43,7 @@ The class will teach you the following topipcs:
 
 | Lecture  | Topics | Slides | Programming Practice | Assignment | Due | Note |
 | :-:      | :-:    | :-:    | :-:                  | :-:        | :-: | :-:  |
-| 2020/1/9 | Introduction | [lecture1](slides/lecture1.pdf) | [p1, p2, makefile](icp/20190109/) | [hw0](hw/hw0.pdf) | -   | [CADE access](slides/no-machine-CADE.pdf) |
+| 2020/1/9 | Introduction | [lecture1](slides/lecture1.pdf) | [p1, p2, makefile](icp/20200109/) | [hw0](hw/hw0.pdf) | -   | [CADE access](slides/no-machine-CADE.pdf) |
 
 
 ---
