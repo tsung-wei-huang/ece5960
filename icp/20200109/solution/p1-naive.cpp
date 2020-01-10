@@ -7,7 +7,7 @@ int main() {
   while(std::cin >> a >> b >> c) {
     int answer = 1;
     for(int i=1; i<=b; i++) {
-      answer = (answer*a)%c;
+	  	answer = (answer*a)%c;
     }
     std::cout << answer << '\n';
   }
