@@ -71,19 +71,19 @@ To check your compiler version you can run:
 
 Finally, on some systems, you may need to install the GNU C++ Compiler.
 
-### MacOS
+**MacOS**
 
 You'll need to install XCode on the Apple Store
 
 https://apps.apple.com/us/app/xcode/id497799835?mt=12
 
-### CentOS (EL7 Distros)
+**CentOS (EL7 Distros)**
 
 `sudo yum update && sudo yum clean all`
 
 `sudo yum install gcc-c++ -y`
 
-### Ubuntu (Debian likes)
+**Ubuntu (Debian likes)**
 
 `sudo apt-get update`
 
