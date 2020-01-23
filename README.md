@@ -49,6 +49,46 @@ The class will teach you the following topipcs:
 | 2020/1/30 | TBD | TBD | TBD | - | icp3 | - |
 
 
+# How to Compile Practice Problems
+
+In order to compile the practice problems we will be doing in this class you will need the [GNU C++ Compiler](https://gcc.gnu.org/projects/cxx-status.html#cxx11) (G++).
+
+To correctly compile programs for this class you must specify C++11 with the `-std=c++11` flag. You will also need to specify an output file for your program's binary executable with the `-o` flag. Here is an example:
+
+`g++ my-program.cpp -std=c++11 -o my-program`
+
+You can execute this program in the same directory by running:
+
+`./my-program`
+
+And you can specify an input file `my-program.in` by using input redirection:
+
+`./my-program < my-program.in`
+
+To check your compiler version you can run:
+
+`g++ -v`
+
+Finally, on some systems, you may need to install the GNU C++ Compiler.
+
+### MacOS
+
+You'll need to install XCode on the Apple Store
+
+https://apps.apple.com/us/app/xcode/id497799835?mt=12
+
+### CentOS (EL7 Distros)
+
+`sudo yum update && sudo yum clean all`
+
+`sudo yum install gcc-c++ -y`
+
+### Ubuntu (Debian likes)
+
+`sudo apt-get update`
+
+`sudo apt-get install build-essential`
+
 ---
 
 [Tsung-Wei Huang]:    https://tsung-wei-huang.github.io/
