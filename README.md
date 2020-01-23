@@ -69,6 +69,8 @@ To check your compiler version you can run:
 
 `g++ -v`
 
+You can also enable compiler optimization with the `-O2` flag.
+
 Finally, on some systems, you may need to install the GNU C++ Compiler.
 
 **MacOS**
