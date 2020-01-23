@@ -41,7 +41,7 @@ The class will teach you the following topipcs:
 
 # Lecture Notes
 
-| Lecture  | Topics | Slides | Programming Practice | Assignment | Due | Note |
+| Lecture  | Topics | Slides | Practice | Assignment | Due | Note |
 | :-:      | :-:    | :-:    | :-:                  | :-:        | :-: | :-:  |
 | 2020/1/9 | Introduction | [lecture1](slides/lecture1.pdf) | [icp1](icp/20200109/) | [hw0](hw/hw0.pdf) | -   | [CADE access](slides/no-machine-CADE.pdf) |
 | 2020/1/16 | Divide and Conquer (I) | [lecture2](slides/lecture2.pdf) | [icp2](icp/20200116/) | - | -   | - |
