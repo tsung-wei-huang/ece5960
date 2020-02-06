@@ -47,7 +47,7 @@ The class will teach you the following topipcs:
 | 2020/1/16 | Divide and Conquer (I) | [lecture2](slides/lecture2.pdf) | [icp2](icp/20200116/) | - | -   | - |
 | 2020/1/23 | Divide and Conquer (II) | [lecture3](slides/lecture3.pdf) | [icp3](icp/20200123/) | - | icp2 | - |
 | 2020/1/30 | Stack, Queue, and Floorplan | [lecture4](slides/lecture4.pdf) | [icp4](icp/20200130) | [hw1](hw/hw1/hw1.pdf) | icp3 | - |
-| 2020/2/6 | Hash Set | [lecture5](slides/lecture5.pdf) | TBD | - | icp4 | - |
+| 2020/2/6 | Hash Set | [lecture5](slides/lecture5.pdf) | [icp5](icp/20200206) | - | icp4 | - |
 | 2020/2/13 | TBD | TBD | TBD | - | icp4 | - |
 
 
