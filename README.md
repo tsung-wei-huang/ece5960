@@ -51,6 +51,9 @@ The class will teach you the following topipcs:
 | 2020/2/13 | Disjoint Set and Binary Search | [lecture6](slides/lecture6.pdf) | [icp6](icp/20200213) | - | - | - |
 | 2020/2/20 | TBD | TBD | TBD | - | icp6 | - |
 
+# Grade
+
+The grade calculated so far is available [here](grade.xlsx).
 
 # How to Compile Practice Problems
 
