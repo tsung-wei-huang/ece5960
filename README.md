@@ -51,6 +51,7 @@ The class will teach you the following topipcs:
 | 2020/2/13 | Disjoint Set and Binary Search | [lecture6](slides/lecture6.pdf) | [icp6](icp/20200213) | - | - | - |
 | 2020/2/20 | Graph Algorithms (I) | [lecture7](slides/lecture7.pdf) | [icp7](icp/20200220) | - | icp6 | - |
 | 2020/2/27 | no class | - | - | - | hw1 | - |
+| 2020/3/5  | Graph Algorithms (II) | - | - | - | icp7 | - |
 
 # Grade
 
