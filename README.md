@@ -49,7 +49,8 @@ The class will teach you the following topipcs:
 | 2020/1/30 | Stack, Queue, and Floorplan | [lecture4](slides/lecture4.pdf) | [icp4](icp/20200130) | [hw1](hw/hw1/hw1.pdf) | icp3 | - |
 | 2020/2/6 | Hash Set | [lecture5](slides/lecture5.pdf) | [icp5](icp/20200206) | - | icp4 | - |
 | 2020/2/13 | Disjoint Set and Binary Search | [lecture6](slides/lecture6.pdf) | [icp6](icp/20200213) | - | - | - |
-| 2020/2/20 | TBD | TBD | TBD | - | icp6 | - |
+| 2020/2/20 | Graph Algorithms (I) | [lecture7](slides/lecture7.pdf) | [icp7](icp/20200220) | - | icp6 | - |
+| 2020/2/27 | no class | - | - | - | hw1 | - |
 
 # Grade
 

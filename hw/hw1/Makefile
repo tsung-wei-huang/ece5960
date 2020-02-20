@@ -1,4 +1,3 @@
-
 BIN=floorplanner
 
 $(BIN): main.c floorplan.c tLib_graphics.cpp floorplan.h tLib_graphics.h

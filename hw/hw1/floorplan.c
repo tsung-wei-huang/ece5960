@@ -608,5 +608,3 @@ void draw_modules(const char file[]) {
   design.write_to_png(file);           // output the file to png image.
 }
 
-
-
