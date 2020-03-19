@@ -58,6 +58,16 @@ The class will teach you the following topipcs:
 
 The grade calculated so far is available [here](grade.xlsx).
 
+# Online Access 
+
+Due to the COVID-1 pandemic, we are following the University policy to move 
+this course online. We will be using zoom to stream our course starting from 3/19/20.
+
+  + Zoom meeting link: https://utah.zoom.us/j/2468214418
+  + Meeting ID: 246 821 4418
+  + One tap mobile +13462487799,,2468214418# US (Houston)
+  + One tap mobile +16699006833,,2468214418# US (San Jose)
+
 # How to Compile Practice Problems
 
 In order to compile the practice problems we will be doing in this class you will need the [GNU C++ Compiler](https://gcc.gnu.org/projects/cxx-status.html#cxx11) (G++).
