@@ -2,6 +2,8 @@
 #include <chrono>
 #include <vector>
 
+#define MAX_N 100
+
 int V, E, S, T;
 
 // a structure to represent a weighted edge in graph 
@@ -15,6 +17,13 @@ using Graph = std::vector<std::vector<Edge>>;
 
 // compute the maximum flow of the graph g
 int maxflow(const Graph& g, int src, int tgt) {
+
+  // you may convert the graph to adjacency matrix, 
+  // assume the maximum number of nodes is no larger than 100
+  // adjacency matrix makes it easier to compute residual flow
+
+  int residual[MAX_N][MAX_N];
+
   return 0;
 }
 
