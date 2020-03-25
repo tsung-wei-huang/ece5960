@@ -53,6 +53,7 @@ The class will teach you the following topipcs:
 | 2020/2/27 | no class | - | - | - | hw1 | - |
 | 2020/3/5  | Graph Algorithms (II) | [lecture8](slides/lecture8.pdf) | [icp8](icp/20200305) | [hw2](hw/hw2/hw2.pdf) | icp7 | - |
 | 2020/3/19  | Graph Algorithms (III) | [lecture9](slides/lecture9.pdf) | [icp9](icp/20200319) | - | icp8 | [online](#online-access) |
+| 2020/3/26  | Graph Algorithms (IV) | [lecture10](slides/lecture10.pdf) | [icp10](icp/20200326) | - | icp9 | |
 
 # Grade
 
